@@ -8,7 +8,7 @@ can be achieved with web technologies.
 **[Live editable version](https://codesandbox.io/s/github/eugenkiss/tictactoe-mobx-react-ts)**
 
 See also [my comment](https://medium.com/@eugenkiss/good-article-91b6afd8f1a2)
-on Mike Hearn's article:
+on [Mike Hearn's article](https://blog.plan99.net/reacts-tictactoe-tutorial-in-kotlin-javafx-715c75a947d2):
 
 > While I’m a big Kotlin fan myself I have to concede the following. With
 TypeScript you essentially get the same tooling / IDE support as with Kotlin.
